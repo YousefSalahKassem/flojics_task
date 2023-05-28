@@ -41,6 +41,7 @@ class _FilterSheetState extends ConsumerState<FilterSheet> {
     return Container(
       height: context.heightR(0.5),
       decoration: BoxDecoration(
+        color: AppColors.whiteColor,
         borderRadius: BorderRadius.only(
           topLeft: Radius.circular(kRadius12),
           topRight: Radius.circular(kRadius12),

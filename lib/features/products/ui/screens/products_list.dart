@@ -17,6 +17,7 @@ class ProductsList extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return Expanded(
       child: RefreshIndicator(
+        backgroundColor: AppColors.halfWhite,
         child: Consumer(
           builder: (_, ref, __) {
             final state = ref

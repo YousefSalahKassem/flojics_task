@@ -36,9 +36,9 @@ class _AddProductScreenState extends ConsumerState<AddProductScreen> {
           LocaleKeys.admin_add.tr(),
           style: TextStyles.headlineLarge.copyWith(color: Colors.black),
         ),
+        iconTheme: const IconThemeData(color: AppColors.black),
         centerTitle: true,
         backgroundColor: AppColors.lightGrey,
-        automaticallyImplyLeading: false,
         elevation: 2,
       ),
       body: SafeArea(

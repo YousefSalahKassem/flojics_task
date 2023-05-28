@@ -89,7 +89,7 @@ class _CustomTextFieldState extends State<CustomTextField> {
             ? Icon(
                 widget.prefixIcon,
                 size: 20,
-                color: context.colorScheme.onBackground,
+                color: AppColors.iconColor,
               )
             : null,
         border: OutlineInputBorder(
@@ -127,7 +127,7 @@ class _CustomTextFieldState extends State<CustomTextField> {
                 icon: Icon(
                   _obscureText ? Icons.visibility_off : Icons.visibility,
                 ),
-                color: context.colorScheme.onBackground,
+                color: AppColors.iconColor,
                 onPressed: () {
                   setState(() {
                     _obscureText = !_obscureText;
