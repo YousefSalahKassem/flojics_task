@@ -56,6 +56,7 @@ class _MyAppState extends ConsumerState<MyApp> {
                   final isConnectedToNetwork =
                       ref.watch(ConnectivityStatusNotifier.provider) ==
                           ConnectivityStatus.isConnected;
+
                   if (isConnectedToNetwork) {
                     return UnFocusWidget(
                       child: LoaderOverlay(

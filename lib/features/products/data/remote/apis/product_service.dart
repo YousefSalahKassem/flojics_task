@@ -34,7 +34,6 @@ class ProductService extends IProductServices {
           throw Exception('Invalid product format: $json');
         }
       }).toList();
-      print(products[0].title);
       return products;
     } catch (error) {
       throw Exception('Error occurred while fetching products: $error');
