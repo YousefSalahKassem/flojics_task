@@ -1,0 +1,82 @@
+{
+  "ar": "العربية",
+  "en": "English",
+  "login": {
+    "subTitle": "Log in to your account",
+    "username": "Username",
+    "password": "Password",
+    "signIn": "Log in",
+    "forgotPassword": "Forgot password",
+    "dontHaveAnAccount": "Don't have an account?",
+    "register": "Register"
+  },
+
+  "alerts": {
+    "loginSuccessfully": "Login Successfully.",
+    "loginFail": "Login Failed.",
+    "unknown": "Error occured for known reason",
+    "logoutSuccessfully": "Logout Successfully",
+    "askToLogout": "Are you sure you want to logout",
+    "soon": "Soon",
+    "delete": "Deleted Successfully ",
+    "add": "Product Added Successfully"
+  },
+
+  "bottomNavigationBar": {
+    "home": "Home",
+    "cart": "Cart",
+    "favourite": "Admin Panel",
+    "profile": "Profile"
+  },
+  "home": {
+    "welcome": "Welcome Back",
+    "search": "Search Products"
+  },
+  "profile": {
+    "settings": "Settings",
+    "commonQuestions": "Common Questions",
+    "about": "About App",
+    "support": "Technical Support",
+    "logout": "Logout"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "required": "Required"
+  },
+  "productDetails": {
+    "color": "Color",
+    "description": "Description"
+  },
+  "filter": {
+    "limit": "Limit",
+    "des": "Descending",
+    "ase":"Ascending",
+    "order": "Order",
+    "cancel": "Cancel",
+    "search": "Search",
+    "filter": "Filter"
+  },
+  "cart": {
+    "title": "Shopping Cart"
+  },
+  "admin": {
+    "add": "Add Product",
+    "remove": "Remove Product",
+    "update": "Update Product",
+    "more": "View More"
+  },
+  "editImageProfile": {
+    "takeAPicture": "Take a picture",
+    "chooseAPhotoFromTheGallery": "Choose a photo from the gallery",
+    "theProfilePictureHasBeenChanged": "The Profile Picture Has BeenChanged",
+    "editImage": "Edit Image"
+  },
+  "addProduct": {
+    "title": "Title",
+    "price": "Price",
+    "description": "Description",
+    "category": "Category",
+    "confirm": "Confirm"
+  }
+}

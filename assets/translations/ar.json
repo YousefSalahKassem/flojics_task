@@ -1,0 +1,80 @@
+{
+  "ar": "العربية",
+  "en": "English",
+  "login": {
+    "subTitle": "قم بتسجيل الدخول إلى حسابك",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "signIn": "تسجيل الدخول",
+    "forgotPassword": "نسيت كلمة المرور",
+    "dontHaveAnAccount": "ليس لديك حساب؟",
+    "register": "سجل الحساب"
+  },
+  "alerts": {
+    "loginSuccessfully": "تم تسجيل الدخول بنجاح",
+    "loginFail": "فشل تسجيل الدخول",
+    "unknown": "فشل طلبك لسبب غير معلوم",
+    "logoutSuccessfully": "تم تسجيل الخروج بنجاح",
+    "askToLogout": "هل تريد تسجيل الخروج",
+    "soon": "قريبا",
+    "delete": "تم الحذف بنجاح",
+    "add": "تم اضافة المنتج بنجاح"
+  },
+  "bottomNavigationBar": {
+    "home": "الرئيسية",
+    "cart": "تسوق",
+    "favourite": "لوحة التحكم",
+    "profile": "حسابى"
+  },
+  "home": {
+    "welcome": "مرحبا بعودتك",
+    "search": "ابحث عن منتجاتك"
+  },
+  "profile": {
+    "settings": "الاعدادات",
+    "commonQuestions": "الاسئلة الشائعة",
+    "about": "عن التطبيق",
+    "support": "الدعم الفنى",
+    "logout": "تسجيل الخروج"
+  },
+  "common": {
+    "yes": "نعم",
+    "no": "لا",
+    "required": "مطلوب",
+  },
+  "productDetails": {
+    "color": "اللون",
+    "description": "عن المنتج"
+  },
+  "filter": {
+    "limit": "الحد الاقصى",
+    "des": "تنازليا",
+    "ase":"تصاعديا",
+    "order": "الترتيب",
+    "cancel": "الغاء",
+    "search": "بحث",
+    "filter": "تصفية"
+  },
+  "cart": {
+    "title": "عربة التسوق"
+  },
+  "admin": {
+    "add": "اضافة المنتج",
+    "remove": "حذف المنتج",
+    "update": "تعديل المنتج",
+    "more": "المزيد"
+  },
+  "editImageProfile": {
+    "takeAPicture": "التقط صورة",
+    "chooseAPhotoFromTheGallery": "اختر صورة من المعرض",
+    "theProfilePictureHasBeenChanged": "تم تغيير الصورة الشخصية",
+    "editImage": "تعديل الصورة"
+  },
+  "addProduct": {
+    "title": "الاسم",
+    "price": "السعر",
+    "description": "تفاصيل",
+    "category": "النوع",
+    "confirm": "تاكيد"
+  }
+}
