@@ -43,6 +43,10 @@ flutter packages pub run build_runner watch
 
 ![skelton](https://github.com/YousefSalahKassem/flojics_task/assets/91211054/f4e8f3d9-3e27-4031-9527-c5073dcab21c)
 
+# Dependency 
+Developed this project with Riverpod as State Management and used Fancy Cart package which is Developed By me,
+You can check documention for this package in the link below :
+https://github.com/YousefSalahKassem/fancy_cart
 
 # Screenshot
 
